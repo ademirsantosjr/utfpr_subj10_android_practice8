@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="descriptions">
+        <item>@string/rice</item>
+        <item>@string/coffee</item>
+        <item>@string/apple</item>
+    </string-array>
+
+    <integer-array name="quantities">
+        <item>5</item>
+        <item>15</item>
+        <item>65</item>
+    </integer-array>
+</resources>

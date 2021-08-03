@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">List of Items with Array</string>
+
+    <string name="rice">Rice</string>
+    <string name="coffee">Coffee</string>
+    <string name="apple">Apple</string>
 </resources>
