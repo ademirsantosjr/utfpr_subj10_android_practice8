@@ -1,4 +1,4 @@
-## Desenvolvimento de uma aplicação com ListView (com Array), para dispositivos móveis Android
+## Desenvolvimento de uma aplicação com ListView e Array, para dispositivos móveis Android
 ### Objetivo
 * Praticar ListView
 * Testar conceitos
